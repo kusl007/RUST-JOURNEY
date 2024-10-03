@@ -17,13 +17,7 @@ This repository will include:
 - Personal notes and comments.
 - Additional resources related to Rust.
 
-## 🚩 Progress
 
-| Video | Title | Status |
-|-------|-------|--------|
-| 1     | Introduction to Rust | ✅ Completed |
-| 2     | Variables and Data Types | 🔄 In Progress |
-| ...   | More to come...       | Upcoming   |
 
 ## 🦀 Why Rust?
 
