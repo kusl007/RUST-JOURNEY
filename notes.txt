@@ -1,0 +1,39 @@
+rust book => https://doc.rust-lang.org/stable/book/
+
+******************************************************
+
+to run rust it must be compiled for first
+
+rustc hello.rs
+then run
+./hello
+
+******************************************************
+rustfmt hello.rs can be used to format in proper order
+
+*****************************************************
+cargo is similar to npm in nodejs
+cargo helps in building the code, downloading the libraries that the code depends on and then building those libraries
+
+cargo new hello_cargo => creates a new project
+hello_cargo is name of folder
+
+***********************************************
+
+for building we go to the hello_cargo folder directory and run cargo build
+target is built and also inside target and inside debug we get hello_cargo and to run we run ./target/debug/hello_cargo
+
+****************** or *******************
+cargo run can be used
+no build or run is required
+
+****************************************
+cargo check is used to find errors in code
+
+cargo check is faster than cargo build
+
+****************************************
+if we want to release the code then run cargo build --release
+it takes more time to compile but is very fast in running
+
+****************************************
